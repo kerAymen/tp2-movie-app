@@ -1,0 +1,6 @@
+[submodule "tp2-movies-frontend"]
+	path = tp2-movies-frontend
+	url = https://github.com/kerAymen/tp2-movies-frontend.git
+[submodule "tp2-movies-backend"]
+	path = tp2-movies-backend
+	url = https://github.com/kerAymen/tp2-movies-backend.git
