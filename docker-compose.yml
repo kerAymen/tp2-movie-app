@@ -38,6 +38,8 @@ services:
       - backend
     networks:
       - movies-network
+    environment:
+      - VITE_API_URL=http://backend:8080
 
 volumes:
   db:
